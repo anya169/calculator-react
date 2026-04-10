@@ -1,0 +1,9 @@
+.calculator-container {
+    width: 400px;
+    justify-self: center;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 20px;
+    background: lightblue;
+}
